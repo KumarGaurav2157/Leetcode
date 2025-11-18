@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 <!---LeetCode Topics End-->
