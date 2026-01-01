@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/KumarGaurav2157/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav2157/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/KumarGaurav2157/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
