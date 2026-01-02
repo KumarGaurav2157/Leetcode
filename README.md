@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/KumarGaurav2157/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 | [1544-make-the-string-great](https://github.com/KumarGaurav2157/Leetcode/tree/master/1544-make-the-string-great) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KumarGaurav2157/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KumarGaurav2157/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/KumarGaurav2157/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
