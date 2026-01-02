@@ -8,11 +8,14 @@ public:
             st.push(s[i]);
             else
             {
-               if(st.empty())
-               return false;
-                char top=st.top();
-                if((s[i]==']' && top=='[')||(s[i]=='}' && top=='{') || (s[i]==')' && top=='('))
-                st.pop();
+               if(!st.empty())
+               {
+                   char top=st.top();
+                  if((s[i]==']' && top=='[')||(s[i]=='}' && top=='{') || (s[i]==')' && top=='('))
+                   st.pop();
+                   else
+                   return false;
+               }
                 else
                 return false;
 
