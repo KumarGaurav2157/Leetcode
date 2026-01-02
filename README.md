@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KumarGaurav2157/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KumarGaurav2157/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav2157/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
