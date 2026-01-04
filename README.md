@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/KumarGaurav2157/Leetcode/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav2157/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/KumarGaurav2157/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KumarGaurav2157/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KumarGaurav2157/Leetcode/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/KumarGaurav2157/Leetcode/tree/master/1390-four-divisors) |
 ## Monotonic Stack
 |  |
 | ------- |
