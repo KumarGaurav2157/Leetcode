@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KumarGaurav2157/Leetcode/tree/master/0066-plus-one) |
 | [1390-four-divisors](https://github.com/KumarGaurav2157/Leetcode/tree/master/1390-four-divisors) |
+| [1837-sum-of-digits-in-base-k](https://github.com/KumarGaurav2157/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 ## Monotonic Stack
 |  |
 | ------- |
