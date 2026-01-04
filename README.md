@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KumarGaurav2157/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KumarGaurav2157/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0338-counting-bits) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
 |  |
