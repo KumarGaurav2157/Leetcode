@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KumarGaurav2157/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Array
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KumarGaurav2157/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/KumarGaurav2157/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KumarGaurav2157/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/KumarGaurav2157/Leetcode/tree/master/1390-four-divisors) |
 | [1837-sum-of-digits-in-base-k](https://github.com/KumarGaurav2157/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 ## Monotonic Stack
