@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/KumarGaurav2157/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KumarGaurav2157/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/KumarGaurav2157/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/KumarGaurav2157/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1544-make-the-string-great](https://github.com/KumarGaurav2157/Leetcode/tree/master/1544-make-the-string-great) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KumarGaurav2157/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KumarGaurav2157/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/KumarGaurav2157/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
