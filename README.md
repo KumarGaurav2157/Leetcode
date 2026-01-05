@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/KumarGaurav2157/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KumarGaurav2157/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KumarGaurav2157/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/KumarGaurav2157/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0338-counting-bits) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/KumarGaurav2157/Leetcode/tree/master/0322-coin-change) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/KumarGaurav2157/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
