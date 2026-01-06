@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/KumarGaurav2157/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/KumarGaurav2157/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumarGaurav2157/Leetcode/tree/master/0242-valid-anagram) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KumarGaurav2157/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/KumarGaurav2157/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/KumarGaurav2157/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/KumarGaurav2157/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KumarGaurav2157/Leetcode/tree/master/0242-valid-anagram) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/KumarGaurav2157/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumarGaurav2157/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KumarGaurav2157/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/KumarGaurav2157/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/KumarGaurav2157/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KumarGaurav2157/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KumarGaurav2157/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
