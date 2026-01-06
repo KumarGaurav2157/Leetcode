@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KumarGaurav2157/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/KumarGaurav2157/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KumarGaurav2157/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KumarGaurav2157/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/KumarGaurav2157/Leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/KumarGaurav2157/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -84,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarGaurav2157/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/KumarGaurav2157/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/KumarGaurav2157/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KumarGaurav2157/Leetcode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/KumarGaurav2157/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1975-maximum-matrix-sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KumarGaurav2157/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
