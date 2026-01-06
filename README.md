@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KumarGaurav2157/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/KumarGaurav2157/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/KumarGaurav2157/Leetcode/tree/master/0322-coin-change) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KumarGaurav2157/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/KumarGaurav2157/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KumarGaurav2157/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumarGaurav2157/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KumarGaurav2157/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KumarGaurav2157/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
