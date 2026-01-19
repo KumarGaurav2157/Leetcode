@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KumarGaurav2157/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumarGaurav2157/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/KumarGaurav2157/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/KumarGaurav2157/Leetcode/tree/master/1544-make-the-string-great) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KumarGaurav2157/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KumarGaurav2157/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/KumarGaurav2157/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/KumarGaurav2157/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/KumarGaurav2157/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Greedy
 |  |
