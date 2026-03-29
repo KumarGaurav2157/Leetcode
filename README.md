@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KumarGaurav2157/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/KumarGaurav2157/Leetcode/tree/master/1544-make-the-string-great) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KumarGaurav2157/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KumarGaurav2157/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
