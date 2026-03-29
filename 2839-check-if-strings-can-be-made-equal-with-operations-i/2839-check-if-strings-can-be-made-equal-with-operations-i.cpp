@@ -1,24 +1,11 @@
 class Solution {
 public:
     bool canBeEqual(string s1, string s2) {
-      for(int i=0;i<4;i++)
-      {
-        if(i<=1)
-        {
-            if(s1[i]==s2[i] ||s1[i]==s2[i+2])
-            continue;
-            else
-            return false;
-            
-        }
-        else
-        {
-          if(s1[i]==s2[i]||s1[i]==s2[i-2])
-          continue;
-          else
-          return false;
-        }
-      }
-      return true;
+
+        if(s1[0]!=s2[0])
+        swap(s1[0],s1[2]);
+       if(s1[1]!=s2[1])
+        swap(s1[1],s1[3]);
+        return s1==s2;
     }
 };
