@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KumarGaurav2157/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/KumarGaurav2157/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0657-robot-return-to-origin](https://github.com/KumarGaurav2157/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/KumarGaurav2157/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1544-make-the-string-great](https://github.com/KumarGaurav2157/Leetcode/tree/master/1544-make-the-string-great) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/KumarGaurav2157/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav2157/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3379-transformed-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/3379-transformed-array) |
