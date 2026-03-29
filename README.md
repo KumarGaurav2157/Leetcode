@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/KumarGaurav2157/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/KumarGaurav2157/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KumarGaurav2157/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KumarGaurav2157/Leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/KumarGaurav2157/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1975-maximum-matrix-sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KumarGaurav2157/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/KumarGaurav2157/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/KumarGaurav2157/Leetcode/tree/master/1390-four-divisors) |
 | [1837-sum-of-digits-in-base-k](https://github.com/KumarGaurav2157/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/KumarGaurav2157/Leetcode/tree/master/2833-furthest-point-from-origin) |
+## Enumeration
+|  |
+| ------- |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/KumarGaurav2157/Leetcode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 <!---LeetCode Topics End-->
