@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KumarGaurav2157/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/KumarGaurav2157/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KumarGaurav2157/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/KumarGaurav2157/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/KumarGaurav2157/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/KumarGaurav2157/Leetcode/tree/master/0389-find-the-difference) |
 | [0868-binary-gap](https://github.com/KumarGaurav2157/Leetcode/tree/master/0868-binary-gap) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KumarGaurav2157/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/KumarGaurav2157/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KumarGaurav2157/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/KumarGaurav2157/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3379-transformed-array](https://github.com/KumarGaurav2157/Leetcode/tree/master/3379-transformed-array) |
 ## Dynamic Programming
