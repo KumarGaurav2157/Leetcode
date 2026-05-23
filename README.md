@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/KumarGaurav2157/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/KumarGaurav2157/Leetcode/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KumarGaurav2157/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KumarGaurav2157/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/KumarGaurav2157/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/KumarGaurav2157/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KumarGaurav2157/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
